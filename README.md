@@ -1,5 +1,4 @@
-# CS4278_Group1
-Reuse Vandy
+#Reuse Vandy
 
 ## About
 The project is an e-commerce web application serving as a platform for Vanderbilt students to buy and sell goods to each other. The application will allow sellers to post listings of products that other users can bid for. The application will specialize in products that are most common for Vanderbilt students, such as appliances, furniture, and textbooks. The client for this project is Prof. Singh, and we will meet with him throughout the semester to inform him of our progress.
